@@ -1,0 +1,8 @@
+1º passo, escolher a opçãp agenda.
+2ª passo, fazer a operação alterar, clica em " DIGITE UMA LETRA OU NOME A SER PESQUISADO " e escolha uma letra, e conforme vc
+vai escrevendo a lista de nomes vai diminuindo.
+3º passo aperte no botão  " CARREGAR CAMPO SELECIONADO ", será exibido nas caixas de texto as informações, e ai vc pode
+fazer as alterações que quiser.
+4º passo cadastrar, é só colocar os nomes nos campos.
+
+QUANDO VC APERTA O " ENTER " ELE MUDA DE CAMPO AUTOMATICAMENTE, PASSANDO PARA O PROXIMO CAMPO.
